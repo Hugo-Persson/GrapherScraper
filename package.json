@@ -1,0 +1,25 @@
+{
+  "name": "grapherscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugo-Persson/GrapherScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hugo-Persson/GrapherScraper/issues"
+  },
+  "homepage": "https://github.com/Hugo-Persson/GrapherScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^16.1.1"
+  }
+}
